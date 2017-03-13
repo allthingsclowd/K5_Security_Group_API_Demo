@@ -1,4 +1,4 @@
-# K5_Security_Group_API_Demo - OpenStack Template
+# K5_Security_Group_API_Demo
 
 ## K5SecurityGroupDemo.py
 
